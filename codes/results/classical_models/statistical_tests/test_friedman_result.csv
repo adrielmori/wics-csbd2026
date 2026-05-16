@@ -1,0 +1,2 @@
+split,n_models,n_total_datasets,n_excluded_datasets_due_to_missing_models,n_complete_datasets,alpha,statistic,p_value,kendall_w,significant,status,note
+test,32,10,0,10,0.05,161.95306362201256,1.1561888835056928e-19,0.5224292374903631,True,ok,

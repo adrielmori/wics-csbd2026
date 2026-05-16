@@ -1,0 +1,9 @@
+classifier,albertina_ptbr_100m,albertina_ptbr_900m,bertimbau_base,bertimbau_large
+decision_tree,2.0,1.0,3.0,4.0
+gaussian_nb,3.0,4.0,1.0,2.0
+gradient_boosting,2.0,1.0,4.0,3.0
+knn,4.0,2.0,3.0,1.0
+linearsvc,4.0,1.0,3.0,2.0
+logreg,4.0,1.0,3.0,2.0
+random_forest,4.0,2.0,3.0,1.0
+svc_rbf,4.0,2.0,3.0,1.0

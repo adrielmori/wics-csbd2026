@@ -1,0 +1,2 @@
+split,avg_embedding_spread_within_classifier,avg_classifier_spread_within_embedding,embedding_minus_classifier_spread,supports_embedding_matters_more
+test,0.06581015902668222,0.4429528299440192,-0.377142670917337,False
